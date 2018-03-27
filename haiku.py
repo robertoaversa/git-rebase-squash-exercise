@@ -6,3 +6,4 @@ def get_haiku():
               On a branch
               floating downriver
               a cricket, singing.'''
+testonmoster
